@@ -1,0 +1,1 @@
+D:\JCI\ClaimsProvider\SharePointAppClaims\SharePointAppClaims\bin\Debug\app.publish\1.0.0.0\SharePointAppClaims.app

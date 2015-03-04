@@ -1,0 +1,3 @@
+D:\JCI\ClaimsProvider\SharePointAppClaims\SharePointAppClaims\bin\Debug\SharePointAppClaims.pdb
+D:\JCI\ClaimsProvider\SharePointAppClaims\SharePointAppClaims\obj\Debug\SharePointAppClaims.dll
+D:\JCI\ClaimsProvider\SharePointAppClaims\SharePointAppClaims\obj\Debug\SharePointAppClaims.pdb
